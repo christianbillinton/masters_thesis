@@ -1,6 +1,6 @@
 # PREDICTIVE MODELLING ELECTRICITY PRICES FOR SHORT-TERM AND LONG-TERM HORIZONS, THE CASE OF THE CZECH REPUBLIC
 
-This repository contains the code and data used for the thesis titled "Predictive Modelling Electricity Prices for Short-Term and Long-Term Horizons, The Case of the Czech Republic". The thesis explores methodologies for forecasting electricity prices in both short-term and long-term contexts using advanced statistical and machine learning techniques. The analysis focuses on the Czech Republic, leveraging historical data and various predictors to develop accurate and interpretable models.
+This repository contains the code and data used for the thesis titled "Predictive Modelling Electricity Prices for Short-Term and Long-Term Horizons, The Case of the Czech Republic". The thesis explores methodologies for forecasting electricity prices in both short-term and long-term time horizones using ARIMA, SVR and LSTM models over a rolling interval of one year. The analysis focuses on the Czech Republic, leveraging historical data to develop accurate and interpretable models described in the PDF thesis available.
 
 ### Data Sources
 
